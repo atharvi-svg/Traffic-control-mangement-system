@@ -96,4 +96,4 @@ python signal_client.py --id SIG-TEST --name "Test Junction" --server http://loc
 
 ---
 
-*Done by: Atharvi Desurkar, Chandana Rani S, Aarati Panchal – PES University*
+*Done by: Atharvi Desurkar, Chandana Rani S, Aarati Panchal – sec-A , PES University *
