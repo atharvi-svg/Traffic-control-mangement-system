@@ -3,6 +3,20 @@
 ### PES University, CN Project
 
 ---
+## Project Overview
+
+Smart Signal Monitoring System (SSMS) is a real-time traffic signal monitoring and control system developed for Karnataka State Police.
+
+The system enables centralized monitoring of multiple traffic junctions, real-time signal updates using WebSockets, fault detection, and remote operator control through a web-based dashboard.
+
+This project demonstrates core Computer Networks concepts including client-server architecture, real-time communication, and RESTful services.
+##  Objectives
+
+- To design a real-time traffic monitoring system
+- To implement WebSocket-based communication
+- To simulate distributed signal units
+- To detect and log faults in traffic signals
+- To provide remote operator control via dashboard
 
 ## Project Structure
 ```
