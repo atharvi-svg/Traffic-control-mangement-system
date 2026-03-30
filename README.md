@@ -109,5 +109,11 @@ python signal_client.py --id SIG-TEST --name "Test Junction" --server http://loc
 - **Networking**: Client–Server Architecture (CN Project concept)
 
 ---
+##  Real-World Impact
 
+- Helps traffic police monitor signals centrally
+- Reduces manual intervention at junctions
+- Enables quick fault detection and resolution
+- Improves traffic efficiency in smart cities
+---
 *Done by: Atharvi Desurkar, Chandana Rani S, Aarati Panchal – sec-A , PES University *
